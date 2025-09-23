@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "bb9d4273-bbbb-62f6-d62c-7f020d776ba1",
+      "cc819e66-a330-43ea-8d9b-f64fed55a1f8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "32b6cfb9-b02d-42d6-94e9-ef2de233b8af",
+    "website": "introduction-to-probability-and-statistics"
+  },
+  "course_title": "Introduction to Probability and Statistics",
+  "hide_download": false,
+  "course_description": "This course provides an elementary introduction to probability and statistics with applications. Topics include basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.\n\nThese same course materials, including interactive components (online reading questions and problem checkers) are available on MIT\u2019s\u00a0{{% resource_link \"b3e3f185-9d1f-4870-8606-a79fea6549e9\" \"Open Learning Library\" %}}, which is free to use. You have the option to enroll and track your progress, or you can view and use the materials without enrolling.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.05",
+  "course_image_thumbnail": {
+    "content": "1dde76f8-2b81-404b-8cdc-01d2f58ffac7",
+    "website": "introduction-to-probability-and-statistics"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions",
+    "Exams with Solutions",
+    "Readings",
+    "Activity Assignments with Examples",
+    "Supplemental Exam Materials",
+    "Tools",
+    "Instructor Insights"
+  ],
+  "site_uid": "5c8e7edf-85b3-4365-8a0c-ce24f816baca",
+  "site_short_id": "18.05-spring-2022",
+  "site_url_path": "courses/18-05-introduction-to-probability-and-statistics-spring-2022"
+}
