@@ -5,6 +5,8 @@ draft: false
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_studio8-teachers.zip
 file_size: 282231
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

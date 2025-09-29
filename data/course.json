@@ -27,8 +27,8 @@
     "website": "introduction-to-probability-and-statistics"
   },
   "course_title": "Introduction to Probability and Statistics",
-  "hide_download": false,
-  "course_description": "This course provides an elementary introduction to probability and statistics with applications. Topics include basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.\n\nThese same course materials, including interactive components (online reading questions and problem checkers) are available on MIT\u2019s\u00a0{{% resource_link \"b3e3f185-9d1f-4870-8606-a79fea6549e9\" \"Open Learning Library\" %}}, which is free to use. You have the option to enroll and track your progress, or you can view and use the materials without enrolling.",
+  "hide_download": true,
+  "course_description": "This course provides an elementary introduction to probability and statistics with applications. Topics include basic combinatorics, random variables, probability distributions, Bayesian inference, hypothesis testing, confidence intervals, and linear regression.\n\nThese same course materials, including interactive components (online reading questions and problem checkers) are available on MIT\u2019s\u00a0[Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.05r_10+2022_Summer/about), which is free to use. You have the option to enroll and track your progress, or you can view and use the materials without enrolling.",
   "department_numbers": [
     "18"
   ],
@@ -38,6 +38,7 @@
     "content": "1dde76f8-2b81-404b-8cdc-01d2f58ffac7",
     "website": "introduction-to-probability-and-statistics"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets with Solutions",

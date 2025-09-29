@@ -5,6 +5,8 @@ draft: false
 file: /courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_plan06.txt
 file_size: 3093
 file_type: text/plain
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

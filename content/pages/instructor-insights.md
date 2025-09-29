@@ -24,15 +24,15 @@ Below, Dr. Jeremy Orloff and Dr. Jennifer French Kamrin describe various aspects
 
 ### Prerequisites
 
-{{% resource_link "9dccc19f-9021-4ed8-86da-89777e2a747d" "*18.02 Multivariable Calculus*" %}}
+[*18.02 Multivariable Calculus*](https://draft.ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010)
 
 ### Requirements Satisfied
 
-18.05 can be applied toward a {{% resource_link "a57443ed-c9fc-47bf-83f5-155d40d93696" "Bachelor's or Master's degree in Computer Science" %}}, but is not required.
+18.05 can be applied toward a [Bachelor's or Master's degree in Computer Science](https://eecsis.mit.edu/degree_requirements.html), but is not required.
 
-18.05 can be applied toward a {{% resource_link "c0500f48-e755-4ad1-921b-e07830f5fcb9" "Minor in Economics" %}}, but is not required.
+18.05 can be applied toward a [Minor in Economics](https://economics.mit.edu/academic-programs/undergraduate-program/minor-and-concentrations), but is not required.
 
-18.05 satisfies the {{% resource_link "f34aea95-df85-477d-9829-0c7af7216fcf" "Restricted Elective in Science and Technology (MIT General Institute Requirement)" %}}.
+18.05 satisfies the [Restricted Elective in Science and Technology (MIT General Institute Requirement)](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#restrequirementtext).
 
 ### Offered
 
@@ -58,7 +58,7 @@ Mostly third- and fourth-year undergraduates
 
 ### Breakdown by Major
 
-About 50% of the students were Electrical Engineering and Computer Science majors, most of whom were in either {{% resource_link "dbd576f0-01ec-4571-87ea-d437ef96a1fd" "Computer Science and Molecular Biology" %}} or {{% resource_link "3e3a7c1f-11b3-480f-aecb-74daa8d2f3f1" "Computation and Cognition" %}}; another 15% were Biology majors; the remainder represented a range of other fields.
+About 50% of the students were Electrical Engineering and Computer Science majors, most of whom were in either [Computer Science and Molecular Biology](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-7-computer-science-and-molecular-biology/) or [Computation and Cognition](https://bcs.mit.edu/academic-program/course-6-9-computation-and-cognition); another 15% were Biology majors; the remainder represented a range of other fields.
 
 ## How Student Time Was Spent
 

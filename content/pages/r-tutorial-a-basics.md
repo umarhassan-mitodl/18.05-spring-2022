@@ -2,6 +2,8 @@
 content_type: page
 description: This section is a basic R tutorial.
 draft: false
+hide_download: true
+hide_download_original: null
 title: 'R Tutorial A: Basics'
 uid: ad455e5d-07cd-408f-bfd2-cf7c26500738
 ---
