@@ -24,15 +24,15 @@ Below, Dr. Jeremy Orloff and Dr. Jennifer French Kamrin describe various aspects
 
 ### Prerequisites
 
-[*18.02 Multivariable Calculus*](https://draft.ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010)
+{{% resource_link "298af7e8-73fb-449e-b9bd-c992d8cf48d6" "*18.02 Multivariable Calculus*" %}}
 
 ### Requirements Satisfied
 
-18.05 can be applied toward a [Bachelor's or Master's degree in Computer Science](https://eecsis.mit.edu/degree_requirements.html), but is not required.
+18.05 can be applied toward a {{% resource_link "5a3d800f-a940-430f-9b74-c52371b5e2c5" "Bachelor's or Master's degree in Computer Science" %}}, but is not required.
 
-18.05 can be applied toward a [Minor in Economics](https://economics.mit.edu/academic-programs/undergraduate-program/minor-and-concentrations), but is not required.
+18.05 can be applied toward a {{% resource_link "f342ef84-62a3-48a2-af44-2e642bdfa1b2" "Minor in Economics" %}}, but is not required.
 
-18.05 satisfies the [Restricted Elective in Science and Technology (MIT General Institute Requirement)](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#restrequirementtext).
+18.05 satisfies the {{% resource_link "4787d5a1-fed8-4649-966d-4e0a45425751" "Restricted Elective in Science and Technology (MIT General Institute Requirement)" %}}.
 
 ### Offered
 
@@ -58,7 +58,7 @@ Mostly third- and fourth-year undergraduates
 
 ### Breakdown by Major
 
-About 50% of the students were Electrical Engineering and Computer Science majors, most of whom were in either [Computer Science and Molecular Biology](https://www.eecs.mit.edu/academics/undergraduate-programs/curriculum/6-7-computer-science-and-molecular-biology/) or [Computation and Cognition](https://bcs.mit.edu/academic-program/course-6-9-computation-and-cognition); another 15% were Biology majors; the remainder represented a range of other fields.
+About 50% of the students were Electrical Engineering and Computer Science majors, most of whom were in either {{% resource_link "35181923-c822-43ca-be0a-66c6095683f5" "Computer Science and Molecular Biology" %}} or {{% resource_link "87079b04-b883-4ec9-a887-acddb7aee899" "Computation and Cognition" %}}; another 15% were Biology majors; the remainder represented a range of other fields.
 
 ## How Student Time Was Spent
 
