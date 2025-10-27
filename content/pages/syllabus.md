@@ -99,7 +99,7 @@ Students completing the course will
 
 ## Note to OCW Users
 
-The interactive components of this course -- the Online Reading Questions and Problem Checkers -- are available on MIT’s [Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.05r_10+2022_Summer/about), which is free to use. You have the option to sign up and track your progress, or you can view and use the materials without enrolling.
+The interactive components of this course -- the Online Reading Questions and Problem Checkers -- are available on MIT’s {{% resource_link "67e401e9-723a-44d4-9103-9677daa646d0" "Open Learning Library" %}}, which is free to use. You have the option to sign up and track your progress, or you can view and use the materials without enrolling.
 
 ## Textbook
 
@@ -109,7 +109,7 @@ There will be no assigned textbook for the class. {{% resource_link "fc5d678a-ad
 
 - **Problem sets**
     - Problem sets will be due most weeks, usually on Monday.
-    - Problem sets will have a problem checker on the [Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.05r_10+2022_Summer/about) (OLL). This will allow you to check many of your answers before turning in the problem sets. 
+    - Problem sets will have a problem checker on the {{% resource_link "67e401e9-723a-44d4-9103-9677daa646d0" "Open Learning Library" %}} (OLL). This will allow you to check many of your answers before turning in the problem sets. 
 - **Exams**
     - There will be two in-class midterm exams and a comprehensive final exam.
     - The midterms will be designed to take one hour, but you will have the entire 80 minutes of class to finish.
